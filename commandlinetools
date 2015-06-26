@@ -1,0 +1,5 @@
+ncrcat file1.nc file2.nc newfile.nc
+
+will take file1.nc and file2.nc and create a file newfile.nc that is the time-
+catenation of file1.nc and file2.nc. See http://linux.die.net/man/1/ncrcat
+ 
